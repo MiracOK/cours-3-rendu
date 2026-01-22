@@ -10,8 +10,8 @@ Ce projet contient seulement 3 classes qui intéragissent entre elle :
 
 ## Technologie utilisées
 
-- PHP 8.2
-- PHPUnit 10.5
+- PHP 8.5
+- PHPUnit 12.5
 
 ## Installation
 
